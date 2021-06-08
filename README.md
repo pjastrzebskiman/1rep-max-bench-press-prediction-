@@ -7,7 +7,7 @@ I create this algorithm during preparations for writing Engineering Thesis. I ha
 What I learned ?
 
 I learned how to:
--use statistical models in ML.NET,
--read metrics (RMS error and R^2),
+- use statistical models in ML.NET,
+- read metrics (RMS error and R^2),
 - load data to learn,
--create MLContext, pipeline, transforms and prediction.
+- create MLContext, pipeline, transforms and prediction.
